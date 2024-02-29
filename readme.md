@@ -24,6 +24,7 @@
 	- [Voice Training](#voice-training)
 	- [DIY HRT](#diy-hrt)
 - [Scientific Research](#scientific-research)
+- [Clothing](#clothing)
 
 ---
 
@@ -125,6 +126,29 @@ This is a brief list of notable LGBTQ+ & Trans-focused servers on the Twitter-li
 
 [#contents|▲ Top]
 
+## Voice Training
+
+- [TransVoiceLessons](https://www.youtube.com/@TransVoiceLessons)
+- [Voice Tools by Azalea](https://voice.hydev.org)
+- [Acoustic Gender](https://acousticgender.space/)
+
+
+## DIY HRT
+
+This section shows awesome resources for helping individuals with DIY HRT
+
+- [DIY HRT Directory](https://diyhrt.wiki/)
+	- [Transfem Guide](https://diyhrt.wiki/transfem)
+	- [Transmasc](https://diyhrt.wiki/transmasc)
+
+
+- [DIY transgender hormone therapy](https://en.wikipedia.org/wiki/DIY_transgender_hormone_therapy)
+- [HRTCafe.net](https://hrtcafe.net)
+- [hrt.coffee](https://hrt.coffee)
+- [MtFHRT@groups.io](https://groups.io/g/MTFHRT)
+- [Transfeminine Science](https://transfemscience.org)
+
+
 ## Organizations
 
 Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
@@ -207,6 +231,18 @@ This section shows awesome resources for helping individuals with DIY HRT.
 [#contents|▲ Top]
 
 ---
+## Clothing
+
+This section shows awesome resources for finding trans-specific clothing
+
+- [Rubyshines](https://rubyshines.com/)
+
+### Binders
+
+- [Underworks](https://www.underworks.com/)
+
+
+
 
 ## Contributing
 
